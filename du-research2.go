@@ -7,7 +7,7 @@ import "fmt"
 func Shalom(name string) string {
     // Return a greeting that embeds the name in a message.
     fmt.Println(shortid.Generate())
-    message := fmt.Sprintf("Shalom, %v. Welcome!", name)
+    message := fmt.Sprintf("Shalom Shalom, %v. Welcome!", name)
     return message
 }
 
