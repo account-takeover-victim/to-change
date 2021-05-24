@@ -1,4 +1,4 @@
-package to-change
+package tochange
 
 import "github.com/ventu-io/go-shortid"
 import "fmt"
