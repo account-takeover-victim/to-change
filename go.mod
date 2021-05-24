@@ -1,4 +1,4 @@
-module github.com/du-research2/to-change
+module github.com/du-research2a/to-change
 
 go 1.16
 
