@@ -1,4 +1,4 @@
-package main
+package to-change
 
 import "github.com/ventu-io/go-shortid"
 import "fmt"
@@ -11,9 +11,9 @@ func Shalom(name string) string {
 }
 
 
-func main() {
+//func main() {
     // Get a greeting message and print it.
-    fmt.Println("Your short ID is:")
-    fmt.Println(shortid.Generate())
-}
+//    fmt.Println("Your short ID is:")
+//    fmt.Println(shortid.Generate())
+//}
 
